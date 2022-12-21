@@ -1,0 +1,4 @@
+1.python -m venv myproject
+
+2.myproject\Scripts\activate.bat
+
